@@ -1,4 +1,4 @@
-# Maikor
+![Maikor](controller_with_logo_blue.png)
 
 >⚠️ Work in progress
 >
