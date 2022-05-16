@@ -26,6 +26,8 @@ See more at [maikor.app](https://maikor.app)
 
 [REPL](https://play.vm.maikor.app)
 
+[Docs](https://docs.maikor.app)
+
 ### Project breakdown
 
 #### Major
