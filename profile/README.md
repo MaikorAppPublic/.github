@@ -55,7 +55,7 @@ See more at [maikor.app](https://maikor.app)
   * Simple desktop program for testing Maikor games (it can't save, etc)
 * [vm-file](https://github.com/MaikorAppPublic/vm-file)
   * For reading and writing Maikor game files
-* [maikor-language](https://github.com/MaikorAppPublic/language)
+* [maikor-platform](https://github.com/MaikorAppPublic/platform)
   * OP names, memory addresses and platform requirements
 * [vm-interface-wasm](https://github.com/MaikorAppPublic/vm-interface-wasm)
   * WASM compatible wrapper for `vm-interface`
