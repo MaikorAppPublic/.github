@@ -61,3 +61,5 @@ See more at [maikor.app](https://maikor.app)
   * WASM compatible wrapper for `vm-interface`
 * [parser](https://github.com/MaikorAppPublic/parser)
   * Maikor ASM parser 
+* [cli-repl](https://github.com/MaikorAppPublic/cli-repl)
+  * CLI REPL for Maikor
